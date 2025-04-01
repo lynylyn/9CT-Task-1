@@ -20,6 +20,47 @@
       |Checks Colour|Colour sensor detects that an obstacle is yellow or red|The robot captures the box|
       |Returns|The box has been captured and 'avoids obstacles' has been performed again|The box is succesfully returned|
 ### Non-Functional Requirements
-+ Efficiency
-+ Response Time
-+ Accuracy
+As well as completing the above requirements, the robot should react to the ultrasonic sensor's inputs within 2 seconds to prevent it from crashing into an object, complete the task with a moderate level of efficiency (it shouldn't take hours to get the blocks), and accurately skewer the blocks and drag them back to the starting area.
+***
+
+## Design
+### Pseudocode
++ ACTIVITY 1A
+~~~~
+BEGIN
+INPUT number
+IF number % 2 == 0 THEN
+    DISPLAY "even number"
+ELSE
+    DISPLAY "odd number"
+ENDIF
+END
+~~~~
++ ACTIVITY 1B
+~~~~
+BEGIN
+INPUT i
+IF i = 1; i <= a; i++ THEN
+    f = f*i
+ENDIF
+PRINT f
+END
+~~~~
++ ACTIVITY 2A
+~~~~
+BEGIN
+WHILE price != done
+    INPUT price
+    total = total + price
+ENDWHILE
+IF total > 100 THEN
+    total = total + total * 10%
+ENDIF
+PRINT total
+END
+~~~~
++ ACTIVITY 2B
+~~~~
+BEGIN
+INPUT n
+FOR i IN n
