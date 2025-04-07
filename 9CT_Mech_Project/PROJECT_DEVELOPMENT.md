@@ -24,7 +24,7 @@ As well as completing the above requirements, the robot should react to the ultr
 ***
 
 ## Design
-### Pseudocode
+### Pseudocode (Warmup Activities)
 + ACTIVITY 1A
 ~~~~
 BEGIN
@@ -64,3 +64,10 @@ END
 BEGIN
 INPUT n
 FOR i IN n
+    Set total to total + 1
+ENDFOR
+PRINT total
+~~~~
+### Flowcharts (Warmup Activities)
+![Flowchart 1A](Flowchart1.png "Flowchart 1A")
+![Flowchart 1B](Flowchart2.png "Flowchart 1B")
