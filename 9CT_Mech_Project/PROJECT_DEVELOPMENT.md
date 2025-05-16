@@ -126,3 +126,19 @@ Evaluation: worked perfectly on the first try
 
 ## Evaluation
 ***
+### Juliet: 5/5
+
+*When rating 1-5 with 1 being lacklustre effort and 5 being outstanding effort, how much effort do you feel this group member put into this project?*: 5/5
+
+*Explain the reason for this score in detail:* Juliet gave a great amount of effort to this task, performing extremely well in all areas while she stayed on task throughout the whole project and ensured that we did the same.
+
+*When rating 1-5 with 1 being not at all and 5 being an exceptional amount, how much did this team member contribute to the team's efforts throughout this project?*: 5/5
+
+*Explain the reason for this score in detail:* Juliet was an incredibly hard working group member throughout the course of the task, mainly working on assembly of the robot but also offering ideas and solutions when it came to debugging and creating our program. She involved herself in all areas of the task without going off track.
+
+*When rating 1-5 with 1 being not well at all and 5 being exceptionally well, how well do you think this team member performed throughout all stages of the project?:* 5/5
+
+Explain the reason for this score in detail: Juliet performed extremely well throughout, being an incredible debugger with unique solutions. Her design for the grabber and work on coding the sensors was vital for our final test.
+
+### Altogether: 3.5/5
+*When rating 1-5 with 1 being entirely non-functional and 5 being completely functional, how effective was the team's final test case?*: Although our final was successful, we were unfortunately unable to properly incorporate two sensors (due to the ultrasonic sensor not working). The coding could have been more efficient but it worked and we were able to complete it without being hurt by time restraints.
