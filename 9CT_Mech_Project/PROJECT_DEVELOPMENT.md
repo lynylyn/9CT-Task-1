@@ -74,6 +74,8 @@ PRINT total
 ![Flowchart 1A](Flowchart1.png "Flowchart 1A")
 ![Flowchart 1B](Flowchart2.png "Flowchart 1B")
 
+### flowcharts and pseudocode did not commit properly. will fix during class.
+
 
 ## Development and Integration
 ***
@@ -169,4 +171,3 @@ Evaluate your Project in Relation to Project Management
 Evaluate your Project in Relation to Team Collaboration
 
 Justify Future Improvements you could make to your Final Product
-
