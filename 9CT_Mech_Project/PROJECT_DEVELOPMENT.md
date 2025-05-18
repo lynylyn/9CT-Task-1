@@ -124,9 +124,9 @@ Aim: to begin the problem by pressing the button on the touch sensor
 Evaluation: worked perfectly on the first try
 
 
-## Evaluation
+## Peer Evaluation
 ***
-### Juliet: 5/5
+### Juliet
 
 *When rating 1-5 with 1 being lacklustre effort and 5 being outstanding effort, how much effort do you feel this group member put into this project?*: 5/5
 
@@ -138,7 +138,35 @@ Evaluation: worked perfectly on the first try
 
 *When rating 1-5 with 1 being not well at all and 5 being exceptionally well, how well do you think this team member performed throughout all stages of the project?:* 5/5
 
-Explain the reason for this score in detail: Juliet performed extremely well throughout, being an incredible debugger with unique solutions. Her design for the grabber and work on coding the sensors was vital for our final test.
+*Explain the reason for this score in detail*: Juliet performed extremely well throughout, being an incredible debugger with unique solutions. Her design for the grabber and work on coding the sensors were vital for our final test.
 
-### Altogether: 3.5/5
+### Emma
+*When rating 1-5 with 1 being lacklustre effort and 5 being outstanding effort, how much effort do you feel this group member put into this project?*: 5/5
+
+*Explain the reason for this score in detail:* Emma was an astounding group member, doing a majority of the code and a lot of the tedious work throughout. She was very helpful to both me and Juliet, helping with whatever we were doing whilst completing what she was tasked to do.
+
+*When rating 1-5 with 1 being not at all and 5 being an exceptional amount, how much did this team member contribute to the team's efforts throughout this project?*: 5/5
+
+*Explain the reason for this score in detail:* Emma is a very talented programmer, and contributed most of the code for the project. She was great at problem solving when it came to getting the angles and distances right with hard coding.
+
+*When rating 1-5 with 1 being not well at all and 5 being exceptionally well, how well do you think this team member performed throughout all stages of the project?* 5/5
+
+*Explain the reason for this score in detail:* Emma did great both independently and when we were all working on the same thing at once, being the backbone of our team. She did exceptionally in the coding aspect and helped with everything else as well.
+
+### Altogether: 4/5
 *When rating 1-5 with 1 being entirely non-functional and 5 being completely functional, how effective was the team's final test case?*: Although our final was successful, we were unfortunately unable to properly incorporate two sensors (due to the ultrasonic sensor not working). The coding could have been more efficient but it worked and we were able to complete it without being hurt by time restraints.
+
+## Final Evaluation
+***
+*Evaluate your INDIVIDUAL Final Test in Relation to Functional Criteria*: Did not meet the functional requirements due to the sensors not working. Also, was unable to perfect my individual final test due to time constraints.
+
+*Evaluate your INDIVIDUAL Final Test in Relation to Non-Functional Criteria*: Similarly to above, did not meet the non-functional requirements as we focused on the group's final test.
+
+*Evaluate your GROUP'S Final Performance in Relation to the Identified Need*: The EV3 performed very well according to the identified need; it successfully 
+
+Evaluate your Project in Relation to Project Management
+
+Evaluate your Project in Relation to Team Collaboration
+
+Justify Future Improvements you could make to your Final Product
+
