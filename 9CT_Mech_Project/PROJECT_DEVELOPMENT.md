@@ -74,7 +74,10 @@ PRINT total
 ![Flowchart 1A](Flowchart1.png "Flowchart 1A")
 ![Flowchart 1B](Flowchart2.png "Flowchart 1B")
 
-### flowcharts and pseudocode did not commit properly. will fix during class.
+### Flowcharts (assesment task)
+![Mainline](ProjectFlowchart1.png "Mainline")
+![Subroutine1](ProjectFlowchart2.png "Subroutine1")
+![Subroutine2](ProjectFlowchart3.png "Subroutine2")
 
 
 ## Development and Integration
